@@ -1,0 +1,3 @@
+INSTRUCTIONS
+
+- Configure the plugin options on the Wordpress admin area.
