@@ -3,10 +3,10 @@
  * @package Autolinkerseo
  */
 /*
-Plugin Name: Simple Auto Linker SEO Tool
+Plugin Name: Simple Autolinker SEO Tool
 Plugin URI: http://www.autolinkerseo.com/
-Description: Simple Auto Linker SEO Tool Is the simplest way to automatically add links to your text. From a box on the bottom of every post and page you can specify a link and keyword to be attached to any text that you insert.Thanks to Auto Linker's minimal design there is no conflict with even the most complex themes.Automatically apply links, targets, and no follows to comma separated keywords you specify.
-Version: 1.0.1
+Description: Simple Autolinker SEO Tool Is the simplest way to automatically add links to your text. From a box on the bottom of every post and page you can specify a link and keyword to be attached to any text that you insert.Thanks to Autolinker's minimal design there is no conflict with even the most complex themes.Automatically apply links, targets, and no follows to comma separated keywords you specify.
+Version: 1.0.2
 Author: Dustin, Rakesh
 Author URI: http://www.autolinkerseo.com/
 License: GPLv2 or later
@@ -48,7 +48,7 @@ function auto_linker_seo_add_meta_box() {
 
 		add_meta_box(
 			'auto_linker_seo_sectionid',
-			__( 'Simple Auto Linker SEO Tool', 'auto_linker_seo_textdomain' ),
+			__( 'Simple Autolinker SEO Tool', 'auto_linker_seo_textdomain' ),
 			'auto_linker_seo_meta_box_callback',
 			$screen
 		);
@@ -95,7 +95,7 @@ function auto_linker_seo_meta_box_callback( $post ) {
        <input type="text" class="form-control required" name="oldUrl" id="oldUrl" placeholder="URL">
     </div>    
     <div class="form-group">
-      <label for="keywordText">Key Words</label>
+      <label for="keywordText">Key Word (case sensitive)</label>
       <input type="text" class="form-control required" name="keywordText" id="keywordText" placeholder="Key Words">
     </div>
 

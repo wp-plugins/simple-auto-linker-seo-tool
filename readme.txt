@@ -1,9 +1,9 @@
 === Simple Autolinker SEO Tool ===
 Contributors: Dustin, Rakesh
-Tags: auto, linker, seo, tool, html, automatic, link, simple
+Tags: autolinker, auto, linker, seo, tool, html, automatic, link, simple
 Requires at least: 3.1
-Tested up to: 4.0
-Stable tag: 3.0.3
+Tested up to: 4.2.2
+Stable tag: 3.0.4
 License: GPLv2 or later
 
 Automatically apply links, targets, and no follows to keywords you specify.
@@ -19,5 +19,14 @@ Automatically apply links, targets, and no follows to keywords you specify.
 
 Upload the Autolinker SEO Tool plugin to your blog, Activate it, and you’re done.
 You’ll find the controls at the bottom of every page and post from within your admin interface. 
+
+== Screenshots ==
+
+See screenshots of the plugin here:
+http://www.autolinkerseo.com/autolinker-seo-tool-for-wordpress-plugin/
+
+Use the web version of the tool here:
+http://www.autolinkerseo.com/
+
 
 == Changelog ==
