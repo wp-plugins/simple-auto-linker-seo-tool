@@ -6,7 +6,7 @@
 Plugin Name: Simple Auto Linker SEO Tool
 Plugin URI: http://www.autolinkerseo.com/
 Description: Simple Auto Linker SEO Tool Is the simplest way to automatically add links to your text. From a box on the bottom of every post and page you can specify a link and keyword to be attached to any text that you insert.Thanks to Auto Linker's minimal design there is no conflict with even the most complex themes.Automatically apply links, targets, and no follows to comma separated keywords you specify.
-Version: 1.0.0
+Version: 1.0.1
 Author: Dustin, Rakesh
 Author URI: http://www.autolinkerseo.com/
 License: GPLv2 or later
