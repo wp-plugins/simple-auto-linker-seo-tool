@@ -11,8 +11,13 @@ Automatically apply links, targets, and no follows to keywords you specify.
 == Description ==
 
 Simple Autolinker SEO Tool automatically adds links to your text.
+
 From a box on the bottom of every post and page you can specify a link and keyword to be attached to any text that you insert. 
+
+See homepage to test it out: www.AutolinkerSEO.com
+
 Thanks to Autolinker’s minimal design there is no conflict with even the most complex themes.
+
 Automatically apply links, targets, and no follows to keywords you specify.
 
 == Installation ==
